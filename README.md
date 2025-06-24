@@ -14,9 +14,4 @@ https://hucourseswap.web.app
 - **Others**: React Router
 
 ---
-
-### Run the Project
-
--npm start or npm run dev
-
----
+]
