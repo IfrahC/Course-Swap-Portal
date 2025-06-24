@@ -11,22 +11,7 @@ https://hucourseswap.web.app
 - **Frontend**: React.js, Tailwind CSS
 - **Backend**: Firebase Firestore (NoSQL Database)
 - **Version Control**: Git + GitHub
-- **Others**: Axios, React Router, etc.
-
----
-
-## Getting Started
-
-### Clone the Repository
-
--git clone https://github.com/RoozainZehra/Course-Swap-Portal.git
--cd HU-CourseSwap
-
----
-
-### Install Dependencies
-
--npm install
+- **Others**: React Router
 
 ---
 
